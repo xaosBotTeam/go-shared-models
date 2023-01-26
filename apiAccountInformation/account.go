@@ -1,6 +1,6 @@
 package apiAccountInformation
 
-type apiAccountInformation struct {
+type ApiAccountInformation struct {
 	Sliv bool
 	Task string
 }
