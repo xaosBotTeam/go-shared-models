@@ -1,6 +1,6 @@
 package dbAccountInformation
 
-type dbAccountInformation struct {
+type DbAccountInformation struct {
 	ID           int
 	GameID       int
 	FriendlyName string
