@@ -1,4 +1,4 @@
-package dbAccountInformation
+package apiAccountInformation
 
 type apiAccountInf struct {
 	Sliv bool
