@@ -1,6 +1,7 @@
-package dbAccountInformation
+package account
 
-type DbAccountInformation struct {
+// @Description Model with static info about game account
+type Account struct {
 	ID           int    `json:"id"`
 	GameID       int    `json:"game_id"`
 	FriendlyName string `json:"friendly_name"`
