@@ -1,3 +1,3 @@
-module github.com/xaosBotTeam/go-shared-models 
+module github.com/xaosBotTeam/go-shared-models
 
 go 1.19
